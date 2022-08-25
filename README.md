@@ -1,6 +1,7 @@
 ### **我的 Thunderobot-Hackintosh EFI文件**
 > ###### **`雷神911air电竞版144HZ屏 - 1050ti -UHD630`** 
 > ###### **`完成度90%`** 
+> ###### **`下载 Release 压缩包即可`** 
 
 ### **可能需要的工具**
 - > 镜像下载：可参考 [黑果小兵的部落阁](https://blog.daliansky.net/)
