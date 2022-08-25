@@ -8,7 +8,7 @@
 - > OC编辑器（Windows版）：[OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
 - > OC编辑器（MacOs版）：[OpenCore Configurator](https://macoshome.com/hackintosh/htools/2100.html#Down)
 - > 网卡驱动：https://github.com/OpenIntelWireless/itlwm
-  - > intel网卡驱动暂不成熟，容易断流，只能期待开发者做得更好吧！
+  - > intel网卡驱动建议使用`Itlwn`配合`HeliPort`使用, `AirportItlwm`暂不成熟，路由器上行过大容易出现断流重连的问题，只能期待开发者做得更好吧！
 - > 声卡驱动：https://github.com/acidanthera/AppleALC
   - > ALC_ID速查表：https://www.bilibili.com/read/cv13613833/
 - > 蓝牙驱动：https://github.com/OpenIntelWireless/IntelBluetoothFirmware
