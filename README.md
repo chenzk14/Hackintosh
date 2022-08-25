@@ -3,8 +3,9 @@
 > ###### **`完成度90%`** 
 
 ### **可能需要的工具**
-- > OC编辑器（Windows版）：https://github.com/ic005k/OCAuxiliaryTools
-- > OC编辑器（MacOs版）：https://macoshome.com/hackintosh/htools/2100.html#Down
+- > 镜像下载：可参考 [黑果小兵的部落阁](https://blog.daliansky.net/)
+- > OC编辑器（Windows版）：[OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+- > OC编辑器（MacOs版）：[OpenCore Configurator](https://macoshome.com/hackintosh/htools/2100.html#Down)
 - > 网卡驱动：https://github.com/OpenIntelWireless/itlwm
   - > intel网卡驱动暂不成熟，容易断流，只能期待开发者做得更好吧！
 - > 声卡驱动：https://github.com/acidanthera/AppleALC
