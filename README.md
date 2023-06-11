@@ -16,7 +16,3 @@
 |  Clash下载地址   |   [Clash for windows](https://github.com/Fndroid/clash_for_windows_pkg)   |  -  |
 |   OC主题 png 转 icns 工具  |    [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)  |  -  |
 | Mac软件安装 | [MacW](https://www.macw.com/) | - |
-
-### **当前EFI问题**
-
-1. 无法隔空投送（建议更换博通网卡，免驱动）
